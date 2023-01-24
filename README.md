@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+# Projeto mochila js mexendo com localStorage
